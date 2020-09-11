@@ -1,9 +1,10 @@
-These are my assignments on Andrew Ng's special course "Deep Learning Specialization".
-This course consists of five courses:
+# deeplearning.ai
+This repository contains assignments of the following courses in the Deep Learning Specialization by deeplearning.ai taught by Andrew Ng, put up on Coursera.
 
-    Neural Networks and Deep Learning  
-    Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-    Convolutional Neural Networks
-    
-    
-source from Andrew Ng's Deep learning course on Coursera
+### Courses
+1.  Nueral Networks and Deep Learning
+2.  Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+3.  Convolutional Neural Networks
+
+## Author
+* **Nikita Kodkany** - *Student*
